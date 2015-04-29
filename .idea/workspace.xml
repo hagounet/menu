@@ -29,7 +29,16 @@
       <file leaf-file-name="db.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="3" selection-start="9" selection-end="9" vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="774">
+            <state line="20" column="30" selection-start="394" selection-end="394" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="774">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db_dist.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db_dist.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="25" selection-start="124" selection-end="124" vertical-scroll-proportion="0.18367347" vertical-offset="0" max-vertical-offset="792">
               <folding />
             </state>
           </provider>
@@ -44,10 +53,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="menu.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/menu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="66" selection-start="1188" selection-end="1188" vertical-scroll-proportion="1.0346938" vertical-offset="519" max-vertical-offset="1278">
+            <state line="62" column="66" selection-start="1188" selection-end="1188" vertical-scroll-proportion="-18.777779" vertical-offset="519" max-vertical-offset="1278">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="108">
               <folding />
             </state>
           </provider>
@@ -75,10 +93,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/db.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/menuManager.php" />
         <option value="$PROJECT_DIR$/menu.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/db.php" />
+        <option value="$PROJECT_DIR$/db_dist.php" />
       </list>
     </option>
   </component>
@@ -173,10 +193,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="103" y="63" width="1585" height="940" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32965687" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32965687" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -220,13 +240,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="3" selection-start="9" selection-end="9" vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="774">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/menuManager.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="8" selection-start="518" selection-end="518" vertical-scroll-proportion="-16.777779" vertical-offset="105" max-vertical-offset="918">
@@ -239,7 +252,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="66" selection-start="1188" selection-end="1188" vertical-scroll-proportion="1.0346938" vertical-offset="519" max-vertical-offset="1278">
+        <state line="62" column="66" selection-start="1188" selection-end="1188" vertical-scroll-proportion="-18.777779" vertical-offset="519" max-vertical-offset="1278">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="492">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="30" selection-start="394" selection-end="394" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="774">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_dist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="25" selection-start="124" selection-end="124" vertical-scroll-proportion="0.18367347" vertical-offset="0" max-vertical-offset="792">
           <folding />
         </state>
       </provider>

@@ -8,6 +8,7 @@
 
 class db {
 
+    // VALEURS A MODIFIER
         private $host = '';
         private $user = '';
         private $db_name = '';
